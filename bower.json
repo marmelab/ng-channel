@@ -1,0 +1,31 @@
+{
+  "name": "ng-channel.js",
+  "version": "0.1.0",
+  "authors": [
+    "Robin Bressan <robin@buddey.net>"
+  ],
+  "description": "Module to use channels in your AngularJS application",
+  "main": "ng-channel.min.js",
+  "keywords": [
+    "channel",
+    "pipe"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src",
+    "build",
+    "Makefile",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "~1.2.14"
+  },
+  "devDependencies": {
+    "almond": "~0.2.9",
+    "angular-mocks": "~1.2.21"
+  }
+}
